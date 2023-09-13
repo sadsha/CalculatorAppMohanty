@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Calculator</string>
+    <string name="missing_value">Please enter an initial value</string>
+    <string name="incomplete_equation">"Please complete the equation"</string>
 </resources>
